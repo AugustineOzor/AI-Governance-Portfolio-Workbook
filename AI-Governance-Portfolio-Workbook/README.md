@@ -1,9 +1,8 @@
 # AI Governance Portfolio Workbook
 
-A practical demonstration of AI inventory management, risk categorisation, governance control assessment, gap analysis, and executive reporting — six linked pages, one per workbook sheet, built around six illustrative AI systems at a fictional mid-sized organisation.
-
-
 <img width="1100" height="480" alt="banner" src="https://github.com/user-attachments/assets/97d6790f-5b2b-4cf8-af84-4acd579da7c5" />
+
+A practical demonstration of AI inventory management, risk categorisation, governance control assessment, gap analysis, and executive reporting — six linked pages, one per workbook sheet, built around six illustrative AI systems at a fictional mid-sized organisation.
 
 ## Start reading
 
