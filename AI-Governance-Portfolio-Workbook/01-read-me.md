@@ -4,8 +4,6 @@
 
 # AI Inventory and Governance Assessment
 
-## Portfolio Purpose
-
 A practical demonstration of AI inventory management, risk categorisation, governance control assessment, gap analysis, and executive reporting.
 
 ## Scope
